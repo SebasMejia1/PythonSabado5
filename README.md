@@ -1,2 +1,7 @@
-# PythonSabado5
-Listas, tuplas y diccionarios
+# Python Sabado clase 5
+***
+## Temas:
+- Listas
+- Tuplas
+- diccionarios
+***
